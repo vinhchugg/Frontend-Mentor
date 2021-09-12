@@ -27,6 +27,12 @@ These are all my solutions to the free challenges on Frontend Mentor. Frontend M
 - [Fylo data storage component](#fylo-data-storage-component)
 - [Clipboard landing page](#clipboard-landing-page)
 
+### Order Summary Component
+User should be able to:
+
+My solution: [Order Summary Component](
+Live site: [Here](https://order-summary-component-vc.netlify.app)
+
 ### Clipboard landing page
 User should be able to:
 - View the optimal layout for the site depending on their device's screen size
