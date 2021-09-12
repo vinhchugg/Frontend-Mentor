@@ -30,7 +30,7 @@ These are all my solutions to the free challenges on Frontend Mentor. Frontend M
 ### Order Summary Component
 User should be able to:
 
-My solution: [Order Summary Component](
+My solution: [Order Summary Component]()
 Live site: [Here](https://order-summary-component-vc.netlify.app)
 
 ### Clipboard landing page
