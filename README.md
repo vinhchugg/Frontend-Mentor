@@ -31,6 +31,7 @@ These are all my solutions to the free challenges on Frontend Mentor. Frontend M
 User should be able to:
 
 My solution: [Order Summary Component](https://github.com/vinhchugg/order-summary-component)
+<br>
 Live site: [Here](https://order-summary-component-vc.netlify.app)
 
 ### Clipboard landing page
@@ -40,7 +41,7 @@ User should be able to:
 
 My solution: [Clipboard Landing page](clip-board-landing-page)
 <br>
-Live site: []()
+Live site: [Here]()
 
 ### Built with
 
