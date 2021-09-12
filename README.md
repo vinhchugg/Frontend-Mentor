@@ -29,12 +29,76 @@ These are all my solutions to the free challenges on Frontend Mentor. Frontend M
 
 ### Order Summary Component
 User should be able to:
+- See hover states for interactive elements
 
 My solution: [Order Summary Component](https://github.com/vinhchugg/order-summary-component)
 <br>
 Live site: [Here](https://order-summary-component-vc.netlify.app)
 
-### Clipboard landing page
+### Stats Preview Card Component
+User should be able to:
+
+My solution: []()
+<br>
+Live site: [Here]()
+
+### 3-Column Preview Card Component
+User should be able to:
+
+My solution: []()
+<br>
+Live site: [Here]()
+
+### Profile Card Component
+User should be able to:
+
+My solution: []()
+<br>
+Live site: [Here]()
+
+### Social Proof Section
+User should be able to:
+
+My solution: []()
+<br>
+Live site: [Here]()
+
+### Four Card Feature Section
+User should be able to:
+
+My solution: []()
+<br>
+Live site: [Here]()
+
+### Single Price Grid Component
+User should be able to:
+
+My solution: []()
+<br>
+Live site: [Here]()
+
+### Huddle Landing Page With a Single Introductory Section
+User should be able to:
+
+My solution: []()
+<br>
+Live site: [Here]()
+
+### Testimonial Grid Section
+User should be able to:
+
+My solution: []()
+<br>
+Live site: [Here]()
+
+### Fylo Data Storage Component
+User should be able to:
+
+My solution: []()
+<br>
+Live site: [Here]()
+
+### Clipboard Landing Page
 User should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
