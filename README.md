@@ -31,81 +31,81 @@ These are all my solutions to the free challenges on Frontend Mentor. Frontend M
 User should be able to:
 - See hover states for interactive elements
 
-My solution: [Order Summary Component](https://github.com/vinhchugg/order-summary-component)
-<br>
 Live site: [Here](https://order-summary-component-vc.netlify.app)
+<br>
+My Solution: [Order Summary Component](https://github.com/vinhchugg/order-summary-component)
 
 ### Stats Preview Card Component
 User should be able to:
 
-My solution: [Stats Preview Card Component](https://stats-preview-card-component-vc.netlify.app)
+Live site: [Stats Preview Card Component](https://stats-preview-card-component-vc.netlify.app)
 <br>
-Live site: [Here](https://github.com/vinhchugg/stats-preview-card-component)
+My solution: [Here](https://github.com/vinhchugg/stats-preview-card-component)
 
 ### 3-Column Preview Card Component
 User should be able to:
 
-My solution: [3-Column Preview Card Component](https://3-column-preview-card-component-vc.netlify.app)
+Live site: [3-Column Preview Card Component](https://3-column-preview-card-component-vc.netlify.app)
 <br>
-Live site: [Here](https://github.com/vinhchugg/3-column-preview-card-component)
+My Solution: [Here](https://github.com/vinhchugg/3-column-preview-card-component)
 
 ### Profile Card Component
 User should be able to:
 
-My solution: [Profile Card Component](https://profile-card-component-vc.netlify.app)
+Live site: [Profile Card Component](https://profile-card-component-vc.netlify.app)
 <br>
-Live site: [Here](https://github.com/vinhchugg/profile-card-component)
+My solution: [Here](https://github.com/vinhchugg/profile-card-component)
 
 ### Social Proof Section
 User should be able to:
 
-My solution: [Social Proof Section](https://social-proof-section-vc.netlify.app)
+Live site: [Social Proof Section](https://social-proof-section-vc.netlify.app)
 <br>
-Live site: [Here](https://github.com/vinhchugg/social-proof-section)
+My solution: [Here](https://github.com/vinhchugg/social-proof-section)
 
 ### Four Card Feature Section
 User should be able to:
 
-My solution: [Four Card Feature Section](https://four-card-feature-section-vc.netlify.app)
+Live site: [Four Card Feature Section](https://four-card-feature-section-vc.netlify.app)
 <br>
-Live site: [Here](https://github.com/vinhchugg/four-card-feature-section)
+My solution: [Here](https://github.com/vinhchugg/four-card-feature-section)
 
 ### Single Price Grid Component
 User should be able to:
 
-My solution: [Single Price Grid Component](https://app.netlify.com/sites/single-price-grid-component-vc/overview)
+Live site: [Single Price Grid Component](https://app.netlify.com/sites/single-price-grid-component-vc/overview)
 <br>
-Live site: [Here](https://github.com/vinhchugg/single-price-grid-component)
+My solution: [Here](https://github.com/vinhchugg/single-price-grid-component)
 
 ### Huddle Landing Page With a Single Introductory Section
 User should be able to:
 
-My solution: [Huddle Landing Page With a SIngle Introductory Section](https://app.netlify.com/sites/huddle-landing-page-with-a-single-introductory-section-vc/overview)
+Live site: [Huddle Landing Page With a SIngle Introductory Section](https://app.netlify.com/sites/huddle-landing-page-with-a-single-introductory-section-vc/overview)
 <br>
-Live site: [Here](https://github.com/vinhchugg/huddle-landing-page-with-a-single-introductory-section)
+My solution: [Here](https://github.com/vinhchugg/huddle-landing-page-with-a-single-introductory-section)
 
 ### Testimonials Grid Section
 User should be able to:
 
-My solution: [Testimonials Grid Section](https://testimonials-grid-section-vc.netlify.app)
+Live site: [Testimonials Grid Section](https://testimonials-grid-section-vc.netlify.app)
 <br>
-Live site: [Here](https://github.com/vinhchugg/testimonials-grid-section)
+My solution: [Here](https://github.com/vinhchugg/testimonials-grid-section)
 
 ### Fylo Data Storage Component
 User should be able to:
 
-My solution: [Fylo Data Storage Component](https://fylo-data-storage-component-vc.netlify.app)
+Live site: [Fylo Data Storage Component](https://fylo-data-storage-component-vc.netlify.app)
 <br>
-Live site: [Here](https://github.com/vinhchugg/fylo-data-storage-component)
+My solution: [Here](https://github.com/vinhchugg/fylo-data-storage-component)
 
 ### Clipboard Landing Page
 User should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-My solution: [Clipboard Landing page](https://clipboard-landing-page-vc.netlify.app)
+Live site: [Clipboard Landing page](https://clipboard-landing-page-vc.netlify.app)
 <br>
-Live site: [Here](https://github.com/vinhchugg/clipboard-landing-page)
+My solution: [Here](https://github.com/vinhchugg/clipboard-landing-page)
 
 ### Built with
 
