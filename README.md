@@ -80,7 +80,7 @@ My solution: [Here](https://github.com/vinhchugg/single-price-grid-component)
 ### Huddle Landing Page With a Single Introductory Section
 User should be able to:
 
-Live site: [Huddle Landing Page With a SIngle Introductory Section](https://app.netlify.com/sites/huddle-landing-page-with-a-single-introductory-section-vc/overview)
+Live site: [Huddle Landing Page With a SIngle Introductory Section](https://huddle-landing-page-with-a-single-introductory-section-vc.netlify.app)
 <br>
 My solution: [Here](https://github.com/vinhchugg/huddle-landing-page-with-a-single-introductory-section)
 
