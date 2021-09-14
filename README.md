@@ -26,6 +26,7 @@ These are all my solutions to the free challenges on Frontend Mentor. Frontend M
 - [Testimonial grid section](#testimonial-grid-section)
 - [Fylo data storage component](#fylo-data-storage-component)
 - [Clipboard landing page](#clipboard-landing-page)
+- [Huddle landing page with alternating feature blocks](#huddle-landing-page-with-alternating-feature-blocks)
 
 ### Order Summary Component
 User should be able to:
@@ -106,6 +107,12 @@ User should be able to:
 Live site: [Clipboard Landing page](https://clipboard-landing-page-vc.netlify.app)
 <br>
 My solution: [Here](https://github.com/vinhchugg/clipboard-landing-page)
+
+### Huddle Landing Page with Alternating Feature Blocks
+
+Live site: [Here]()
+<br>
+My solution: [Here](https://github.com/vinhchugg/huddle-landing-page-with-alternating-feature-blocks)
 
 ### Built with
 
