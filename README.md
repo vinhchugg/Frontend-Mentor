@@ -110,7 +110,7 @@ My solution: [Here](https://github.com/vinhchugg/clipboard-landing-page)
 
 ### Huddle Landing Page with Alternating Feature Blocks
 
-Live site: [Here]()
+Live site: [Here](https://huddle-landing-page-with-alternating-feature-blocks-vc.netlify.app)
 <br>
 My solution: [Here](https://github.com/vinhchugg/huddle-landing-page-with-alternating-feature-blocks)
 
