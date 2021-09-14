@@ -73,7 +73,7 @@ My solution: [Here](https://github.com/vinhchugg/four-card-feature-section)
 ### Single Price Grid Component
 User should be able to:
 
-Live site: [Single Price Grid Component](https://app.netlify.com/sites/single-price-grid-component-vc/overview)
+Live site: [Single Price Grid Component](https://single-price-grid-component-vc.netlify.app)
 <br>
 My solution: [Here](https://github.com/vinhchugg/single-price-grid-component)
 
