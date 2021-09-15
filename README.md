@@ -8,8 +8,6 @@ These are all my solutions to the free challenges on Frontend Mentor. Frontend M
 - [Built with](#built-with)
 - [What I learned](#what-i-learned)
 - [Continued development](#continued-development)
-- [Useful resources](#useful-resources)
-- [Author](#author)
 
 ## Overview
 
@@ -130,10 +128,3 @@ All of these challenges have a section that is tricky and require some form rese
 ### Continued development
 
 Though these challenges have made me an overall better Frontend developer, I know that there are still lots of areas where I am lacking such as positioning an image or using the correct html semantic tag. I hope to keep practicing and learning so that I can get a better grasp of this. I will be doing this by further self-teaching using online resources and the challenges on Codewell.
-
-### Useful resources
-
-
-
-### Author
-
